@@ -1,0 +1,9 @@
+terminal numbers based on TechGrid.tmx
+
+skip
+2-4-7-6-9-12-9-8-9-6-7-Leave
+11 terminal uses
+
+non-skip
+2-7-6-9-12-9-8-9-6-7-10-2-3-7-6-9-8-9-11-9-8-6-7-Leave
+23 terminal uses

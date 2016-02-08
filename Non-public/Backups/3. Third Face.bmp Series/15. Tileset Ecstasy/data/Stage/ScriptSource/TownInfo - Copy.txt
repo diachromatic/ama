@@ -1,0 +1,75 @@
+#0090
+<KEY<MNA<CMU0028<FAI0000<END
+#0091
+<KEY<MNA<CMU0028<FAI0001<END
+#0092
+<KEY<MNA<CMU0028<FAI0002<END
+#0093
+<KEY<MNA<CMU0028<FAI0003<END
+#0094
+<KEY<MNA<CMU0028<WAI0030<CNP0100:0000:0000<SOU0011<WAI0010<SMC
+<WAI0010<SOU0011<CNP0100:0018:0000<END
+#0100
+<KEY<CNP0100:0000:0000<SOU0011<WAI0010<HMC<WAI0010
+<SOU0011<CNP0100:0018:0000<WAI0010<TRA0006:0097:0031:0015
+
+#0200
+<KEY<MS3<TUR"These notes have helpful information!"<NOD<CLO<END
+#0201
+<KEY<MS3<TUR"There are more notes on
+the second level. If you can't
+jump then that's your problem."<NOD<CLO<END
+#0202
+<KEY<MS3<TUR"Check the information clerk for specific
+information not found on the walls."<NOD<CLO<END
+#0203
+<KEY<MSG<TUR1. Water is not your friend.<NOD
+You cannot double-jump in water.<NOD<CLO<END
+#0204
+<KEY<MSG<TUR2. Contrary to popular belief, enjoying
+the night is not as evil as killing
+children.<NOD<CLO<END
+#0205
+<KEY<MSGThe note appears to have been
+crossed out.<NOD There is some small 
+writing at the bottom.<NOD<CLR<TUR3. IT'S RI-KI, NOT RI-KAI<NOD<END
+#0206
+<KEY<MSG<TUR4. Legends tell of a mysterious lady with
+hair like drills and laughter like a demon.<NOD
+Modern scholars dismiss the idea.<NOD<CLO<END
+#0207
+<KEY<MSG<TUR5. The abandoned laboratory used to be
+anything but. In fact, some say that Rikei
+used to work there.<NOD<CLRHowever, nobody knows what they did there.<NOD
+Rikei refuses to speak of it.<NOD<CLO<FLJ7932:0400<FL+7932<END
+#0208
+<KEY<MSG<TUR6. There are no humans or cats in the cave.<NOD
+Be wary of what you may find in the depths.<NOD<CLO<END
+#0209
+<KEY<MSG<TUR7. The shop down the street really does
+grant wishes! In fact, it sometimes knows
+your wishes better than you do.<NOD<CLO<END
+#0210
+<KEY<MSG<TUR8. There is no eighth note.<NOD
+Why would there be an eighth note?<NOD
+That's silly. You're silly.<NOD<CLO<END
+#0211
+<KEY<MSG<TUR:3<NOD<CLO<END
+
+#0300
+<KEY<MS3...<NOD<CLR
+<MS3Need something?<YNJ0301<CLR<FLJ7985:0302
+<MS3No, you don't.<NOD<CLO<END
+#0301
+<KEY<MS3I see.<NOD<CLO<END
+#0302
+<KEY<MS3This place? This is Cat Street.<NOD
+It's mostly inhabited by cats.<NOD
+In case you didn't already
+know that, of course.<NOD<CLR<END
+
+#0400
+<FLJ7933:0401<FL+7933<END
+#0401
+<MSGAt the bottom, there's a number in
+tiny writing...<NOD<CLR<TUR2403<NOD<END

@@ -1,0 +1,48 @@
+#0090
+<KEY<MNA<CMU0028<FAI0000<END
+#0091
+<KEY<MNA<CMU0028<FAI0001<END
+#0092
+<KEY<MNA<CMU0028<FAI0002<END
+#0093
+<KEY<MNA<CMU0028<FAI0003<END
+#0094
+<KEY<MNA<CMU0028<WAI0030<CNP0100:0000:0000<SOU0011<WAI0010<SMC
+<WAI0010<SOU0011<CNP0100:0018:0000<END
+#0100
+<KEY<CNP0100:0000:0000<SOU0011<WAI0010<HMC<WAI0010
+<SOU0011<CNP0100:0018:0000<WAI0010<TRA0006:0095:0010:0011
+
+#0200
+<KEY<FLJ7950:0203<FLJ7983:0201<FAC0006<MS3Well, hello again.<NOD Have you
+come to do some shopping?<NOD<CLO<FL+7983<END
+#0201
+<KEY<FLJ7982:0202<FAC0006<MS3I am aware that the
+owner is a cat.<NOD He
+is a good businessman.<NOD<CLO<FL+7982<END
+#0202
+<KEY<FAC0007<MS3Err, would that
+be businesscat?<NOD<CLO<END
+#0203
+<KEY<FAC0007<MS3How stingy...<NOD<CLO<END
+
+#0300
+<KEY<FLJ7950:0301
+<MS3Welcome, welcome!<NOD
+Feel free to browse!<NOD<CLR
+<MS3Although, there might not be
+much to look at at the moment.<NOD<CLR
+<MS3You see, the wares in this
+shop change depending on what
+you are looking for.<NOD<CLR
+<MS3Think of it as a
+wish-granting shop.<NOD<CLR
+<ANP0200:0000:0002<MYD0000<FAC0006<MS3It also has the best
+groceries you could find.<NOD<CLR
+<FAC0000<MS3Hehe, you flatter me.<NOD<CLR
+<MS3However, I won't let you get any
+more discounts out of me!<NOD<CLR
+<FAC0007<MS3Darn...<NOD<CLO<FL+7950<END
+#0301
+<KEY<MS3Welcome, welcome!<NOD
+Feel free to browse!<NOD<CLO<END

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="29" height="20" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="../../Design Tilesets/BG.tsx"/>
+ <tileset firstgid="181" source="../../Design Tilesets/Entity.tsx"/>
+ <tileset firstgid="209" source="../../Design Tilesets/Solid.tsx"/>
+ <layer name="BG" width="29" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4B7Fo3gUj+JRPIpH8SgewRgALucY7Q==
+  </data>
+ </layer>
+ <layer name="Solid" width="29" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy7yMDAcJGBPuAiGh61c9TOUTtHjp1XgfgaFntoYScxdlHLTlLsGsWjeBQPXgwAaHD12Q==
+  </data>
+ </layer>
+ <layer name="Entity 1" width="29" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjHSwbaAdMICAWL+P5DAaBaNgJAAAQecCIw==
+  </data>
+ </layer>
+ <layer name="Entity 2" width="29" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjHRwaqAdMIBgK5HqDtPUFaNgFIyCgQYA1Q8CQw==
+  </data>
+ </layer>
+</map>

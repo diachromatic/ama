@@ -1,0 +1,159 @@
+Flag 0
+	 <FLJ Labor2.tsc event #200
+	 <FL+ Labor2.tsc event #200
+Flag 5000
+	 <FLJ Labor2.tsc event #250
+	 <FL+ Labor2.tsc event #250
+Flag 5001
+	 <FL+ Labor2.tsc event #250
+Flag 5002
+	 <FLJ Labor2.tsc event #251
+	 <FL+ Labor2.tsc event #251
+Flag 6000
+	 <FL+ Secu.tsc event #1000
+Flag 6001
+	 <FL+ Cave2.tsc event #1000
+Flag 7927
+	 <FLJ Town2.tsc event #300
+	 <FL+ Town2.tsc event #300
+	 <FLJ CaveDeep.tsc event #601
+	 <FL+ CaveDeep.tsc event #601
+Flag 7928
+	 <FLJ Cave.tsc event #130
+	 <FLJ Cave.tsc event #215
+	 <FL+ Cave.tsc event #215
+	 <FL+ CaveDeep.tsc event #200
+Flag 7929
+	 <FLJ Cave.tsc event #130
+	 <FLJ Cave.tsc event #270
+	 <FL+ Cave.tsc event #271
+Flag 7930
+	 <FLJ Cave.tsc event #262
+Flag 7931
+	 <FLJ Cave.tsc event #260
+	 <FL+ Cave.tsc event #261
+	 <FLJ Cave.tsc event #270
+Flag 7932
+	 <FLJ TownInfo.tsc event #207
+	 <FL+ TownInfo.tsc event #207
+	 <FLJ Cave.tsc event #96
+Flag 7933
+	 <FLJ TownInfo.tsc event #400
+	 <FL+ TownInfo.tsc event #400
+	 <FL+ Town2.tsc event #301
+Flag 7934
+	 <FLJ Town2.tsc event #94
+	 <FLJ Town2.tsc event #300
+Flag 7935
+	 <FLJ Cave.tsc event #250
+	 <FLJ Cave.tsc event #260
+	 <FL+ Cave.tsc event #400
+Flag 7936
+	 <FLJ Cave.tsc event #251
+	 <FL+ Cave.tsc event #251
+Flag 7937
+	 <FL+ Alice.tsc event #300
+Flag 7938
+	 <FLJ Cave.tsc event #94
+	 <FL+ Cave.tsc event #202
+Flag 7939
+	 <FL+ Cave2.tsc event #200
+Flag 7940
+	 <FL+ Alice.tsc event #300
+Flag 7941
+	 <FLJ TownHall.tsc event #240
+	 <FL+ TownHall.tsc event #240
+Flag 7942
+	 <FLJ Cave.tsc event #94
+	 <FLJ Cave.tsc event #95
+	 <FL+ Cave.tsc event #211
+Flag 7943
+	 <FLJ TownHall.tsc event #230
+	 <FL+ TownHall.tsc event #230
+Flag 7944
+	 <FLJ TownHall.tsc event #200
+	 <FL+ TownHall.tsc event #200
+Flag 7945
+	 <FLJ TownInn.tsc event #300
+	 <FL+ TownInn.tsc event #300
+Flag 7946
+	 <FLJ TownInn.tsc event #203
+	 <FL+ TownInn.tsc event #203
+Flag 7947
+	 <FLJ TownInn.tsc event #202
+	 <FL+ TownInn.tsc event #202
+Flag 7948
+	 <FLJ TownInn.tsc event #201
+	 <FL+ TownInn.tsc event #201
+Flag 7949
+	 <FLJ TownInn.tsc event #200
+	 <FL+ TownInn.tsc event #200
+Flag 7950
+	 <FLJ TownShop.tsc event #200
+	 <FLJ TownShop.tsc event #300
+	 <FL+ TownShop.tsc event #300
+Flag 7982
+	 <FLJ TownShop.tsc event #201
+	 <FL+ TownShop.tsc event #201
+Flag 7983
+	 <FLJ TownShop.tsc event #200
+	 <FL+ TownShop.tsc event #200
+Flag 7984
+	 <FLJ Labor2.tsc event #300
+	 <FL+ Labor2.tsc event #305
+Flag 7985
+	 <FLJ World.tsc event #100
+	 <FL+ World.tsc event #100
+	 <FLJ World.tsc event #110
+	 <FLJ TownInfo.tsc event #300
+Flag 7986
+	 <FLJ Stora.tsc event #400
+	 <FLJ Stora.tsc event #401
+	 <FLJ Stora.tsc event #600
+	 <FL+ Stora.tsc event #601
+Flag 7987
+	 <FLJ Secu.tsc event #94
+	 <FLJ Secu.tsc event #95
+	 <FL+ Stora.tsc event #300
+	 <FLJ Stora.tsc event #400
+Flag 7988
+	 <FL+ Secu.tsc event #600
+Flag 7989
+	 <FLJ Secu.tsc event #400
+	 <FL+ Secu.tsc event #401
+	 <FL- Secu.tsc event #403
+Flag 7990
+	 <FL+ Secu.tsc event #300
+	 <FLJ Secu.tsc event #400
+	 <FLJ Secu.tsc event #402
+Flag 7991
+	 <FLJ Labor.tsc event #94
+	 <FLJ Labor.tsc event #401
+	 <FL+ Labor.tsc event #404
+	 <FLJ Labor2.tsc event #94
+Flag 7992
+	 <FLJ Labor.tsc event #94
+	 <FLJ Labor.tsc event #95
+	 <FL+ Labor.tsc event #120
+	 <FLJ Labor2.tsc event #94
+	 <FLJ Labor2.tsc event #95
+	 <FL+ Labor2.tsc event #120
+Flag 7993
+	 <FLJ Comp.tsc event #94
+	 <FL+ Comp.tsc event #311
+Flag 7994
+	 <FLJ Comp.tsc event #302
+	 <FL+ Comp.tsc event #302
+Flag 7995
+	 <FLJ Comp.tsc event #300
+	 <FL+ Comp.tsc event #300
+	 <FL+ Comp.tsc event #301
+Flag 7996
+	 <FL+ Comp.tsc event #200
+Flag 7997
+	 <FLJ Labor.tsc event #501
+	 <FL+ Labor.tsc event #501
+Flag 7998
+	 <FL+ Labor.tsc event #400
+Flag 7999
+	 <FL+ Start.tsc event #102

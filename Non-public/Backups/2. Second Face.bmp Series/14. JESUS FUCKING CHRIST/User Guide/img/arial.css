@@ -1,0 +1,36 @@
+<!--
+.arialtable, .arialtable td, .arialtable th
+{
+font-family:'Arial', 'Times New Roman';
+font-size:10pt;
+}
+
+body
+{
+font-family:'Arial', 'Times New Roman';
+font-size:10pt;
+}
+
+a {text-decoration:none}
+a:hover { color: #000080; }
+
+.megasize
+{
+color:blue;
+font-size:400%;
+}
+
+.green_title
+{
+color:green;
+font-size:14pt;
+font-style:bold;
+}
+
+.purple_title
+{
+color:purple;
+font-size:14pt;
+font-style:bold;
+}
+-->

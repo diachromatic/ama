@@ -1,0 +1,422 @@
+				Start Point
+
+
+
+#0090
+<KEY<MNA<CMU0014<FAI0000<END
+#0091
+<KEY<MNA<CMU0014<FAI0001<END
+#0092
+<KEY<MNA<CMU0014<FAI0002<END
+#0093
+<KEY<MNA<CMU0014<FAI0003<END
+#0094
+<KEY<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0301:0000:0000<WAI0010<SMC<WAI0010<SOU0011<CNP0301:0018:0000
+<END
+
+#0100
+<KEY<WAI0060<FON0301:0016<HMC<MNA<CNP0300:0150:0002<ANP0300:0010:0002<SOU0012
+<WAI0050<CMU0000<FAI0004<DNP0300<MYD0002<SMC<WAI0080<MYD0000<WAI0050<MYD0002
+<WAI0050<SOU0011<CNP0301:0000:0000<WAI0005<MYD0000<WAI0005
+<CNP0500:0074:0002<WAI0050
+<ANP0500:0008:0002<WAI0142<ANP0500:0000:0002<WAI0050
+<FAC0020<MSGI finally found
+you again.<NOD<CLR
+<FAC0020<MSGDo you know how
+difficult it is
+to follow you?<NOD<CLR
+<FAC0016<MSGWhat? Who am I?<NOD
+Don't ask stupid
+questions.<NOD<CLR
+<FAC0016<MSGWait...<WAI0050you really
+don't remember me?<YNJ0101
+<FAC0020<MSGWhat's my name, then?<NOD<CLO<WAI0130
+<FAC0017<MSGI knew it. You can't
+remember a thing.<NOD<CLR<EVE0102
+#0101
+<FAC0017<MSGWell, that's.<WAI0030.<WAI0030.<WAI0030annoying.<NOD<CLR<EVE0102
+#0102
+<FAC0016<MSGI would think that you
+would at least remember
+the name of your partner.<NOD<CLR
+<FAC0020<MSGThat would be me.<NOD
+<FAC0020Raven.<NOD<CLR
+<FAC0017<MSG*Sigh*...<NOD<CLR
+<FAC0012<MSGWell, I guess I'll forgive
+you this once.<NOD Just
+follow me and I'll clue
+you into the situation.<NOD<CLO<ANP0500:0008:0000<WAI0142
+<DNP0500<WAI0010<SOU0011<CNP0301:0018:0000<FL+7999<FOM0016<END
+
+#0301
+<KEY<SOU0011<CNP0301:0000:0000<WAI0010<HMC<WAI0010<SOU0011<CNP0301:0018:0000
+<FAO0004<MYD0002<TRA0002:0094:0002:0011
+
+#0400
+<KEY<MSGText is displayed on-screen.<NOD<CLR
+<MSG<TUR>PROGRAM 0039 INITIALIZING
+>ERROR: TARGET NOT FOUND
+>TERMINATING PROGRAM<NOD<CLO<END
+
+
+
+				Abandoned Area
+
+
+
+#0090
+<KEY<MNA<CMU0014<FAI0000<END
+#0091
+<KEY<MNA<CMU0014<FAI0001<END
+#0092
+<KEY<MNA<CMU0014<FAI0002<END
+#0093
+<KEY<MNA<CMU0014<FAI0003<END
+#0094
+<KEY<MYD0002<FLJ7991:0095<FLJ7992:0096<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0301:0000:0000<CNP0120:0000:0000<WAI0010<SMC<WAI0010
+<SOU0011<CNP0301:0018:0000<CNP0120:0018:0000<END
+#0095
+<KEY<MYD0002<DNP0502<FLJ7992:0096<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0301:0000:0000<CNP0120:0000:0000<WAI0010<SMC<WAI0010
+<SOU0011<CNP0301:0018:0000<CNP0120:0018:0000<END
+#0096
+<KEY<MYD0002<DNP0501<SMP0069:0010<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0301:0000:0000<CNP0120:0000:0000<WAI0010<SMC<WAI0010
+<SOU0011<CNP0301:0018:0000<CNP0120:0018:0000<END
+#0097
+<KEY<MYD0000<DNP0501<DNP0502<SMP0069:0010<HMC<MNA
+<CMU0014<FAI0004<WAI0010<SMC<WAI0010<END
+
+#0120
+<KEY<SOU0011<CNP0120:0000:0000<WAI0010<HMC<WAI0010<SOU0011<CNP0120:0018:0000
+<FAO0004<FL+7992<MYD0002<TRA0003:0094:0004:0009
+#0121
+<KEY<WAI0010<HMC<WAI0010<FAO0004<MYD0002<TRA0004:0094:0002:0013
+
+#0200
+<KEY<MSG<TUR
+                "Library"<NOD<CLO<END
+
+#0301
+<KEY<SOU0011<CNP0301:0000:0000<WAI0010<HMC<WAI0010<SOU0011<CNP0301:0018:0000
+<FAO0004<MYD0002<TRA0001:0094:0002:0011
+
+#0400
+<KEY<DNP0400<MM0<MYD0002<WAS<WAI0050<ANP0500:0000:0000<WAI0010
+<FAC0016<MSGLook around you.<NOD This is-
+or was- an important
+research facility.<NOD<CLR
+<FAC0016<MSGSomeone broke in and
+destroyed everything that
+was being developed.<NOD<CLR
+<FAC0014<MSGWe were sent here to
+eliminate this individual.<NOD<CLR
+<FAC0014<MSGI'm hoping that we can
+get some information
+from him, though.<NOD<CLR
+<FAC0012<MSGI'm going to take a
+look around here.<NOD
+Maybe I can find out
+where he went.<NOD<CLR
+<ANP0500:0000:0002<FAC0012<MSGThere's a library of
+sorts east of here.<NOD<CLR
+<FAC0012<MSGIt wouldn't hurt to do
+some reading,<WAI0050 since you
+can't remember anything.<NOD<CLR
+<FAC0016<MSGOh, and keep an eye out
+for notes or open books.<NOD
+They might reveal
+information about the
+focus of this lab.<NOD
+What they're studying,
+what they've discovered,
+et cetera.<NOD<CLR<ANP0500:0000:0000
+<FAC0012<MSGWe can meet up once
+you've finished reading.<NOD<CLO
+<FL+7998<END
+
+#0401
+<FLJ7991:0402<DNP0401
+<KEY<MM0<WAS<WAI0050<ITJ0001:0403<FAC0013<MSGWelcome back.<NOD<CLR
+<FAC0016<MSGSorry to disappoint you,
+but we might have to
+split up again.<NOD<CLR<EVE0404
+#0402
+<DNP0401<END
+#0403
+<KEY<MM0<WAS<WAI0050<FAC0014<MSGWell, well.<NOD<CLR
+<FAC0014<MSGI send you to find a
+book and you bring back
+a knife?<NOD<CLR
+<FAC0014<MSGBetter be careful
+with that.<NOD You might
+hurt someone.<NOD<CLR
+<FAC0016<MSGAnyway, it seems we might
+have to split up again.<NOD<CLR<EVE0404
+#0404
+<KEY<FAC0016<MSGI went ahead a bit, but
+there were two paths.<NOD<CLR
+<FAC0012<MSGI'll go ahead and take
+the upper path.<NOD You can
+take the lower.<NOD<CLR
+<FAC0012<MSGThe lower one looks
+less damaged, anyway.<NOD<CLO
+<ANP0502:0008:0002<WAI0016<DNP0502<FL+7991<END
+
+#0500
+<KEY<FAC0013<MSGKnowledge is a virtue.<NOD<CLO<END
+
+#0501
+<KEY<FLJ7997:0502<FAC0016<MSGI'm busy. What is it?<NOD<CLR
+<FAC0000<MSGTalk to Raven?<YNJ0000
+<FAC0016<MSGYour name? I'm not quite
+sure.<NOD You never told
+me before.<NOD<CLR
+<FAC0012<MSGSorry about your luck.<NOD<CLO<FL+7997<END
+#0502
+<FAC0016<MSGI'm busy. What is it?<NOD<CLO<END
+
+
+
+				Laboratory Entrance
+
+
+
+#0090
+<KEY<MNA<CMU0014<FAI0000<END
+#0091
+<KEY<MNA<CMU0014<FAI0001<END
+#0092
+<KEY<MNA<CMU0014<FAI0002<END
+#0093
+<KEY<MNA<CMU0014<FAI0003<END
+#0094
+<KEY<ANP0600:0002:0002<FOM0016<MYD0002<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0400:0000:0000<WAI0010<SMC<WAI0010<SOU0011<CNP0400:0018:0000
+<END
+#0095
+<KEY<MYD0002<HMC<MNA<CMU0014<FAI0004
+<SOU0011<CNP0401:0000:0000<WAI0010<SMC<WAI0010<SOU0011<CNP0401:0018:0000
+<END
+#0300
+<KEY<DNP0300<MM0<WAS<WAI0050
+<FAC0014<MSGYou're late.<NOD I got here a
+while ago.<NOD<CLR
+<FAC0014<MSGAnyway,<WAI0050 take a look at what
+I've caught.<NOD<CLR
+<FAC0002<MSGJeez...what do you want?<NOD<CLR
+<FAC0020<MSGHe's obviously not our
+target. He's just a little
+brat.<NOD<CLR
+<FAC0014<MSGEven so, he probably
+knows something.<NOD<CLR
+<FAC0004<MSGAnd what could I
+possibly know?<NOD<CLR
+<FAC0016<MSGOh, could you guard
+the door, please?<NOD I
+wouldn't want him to
+try and escape.<NOD<CLR
+<FAC0002<MSG...<NOD<CLO<FL+7987<END
+#0400
+<KEY<FLJ7986:0403<FLJ7987:0402<FON0500:0016
+<FAC0012<MSGOver here!<NOD<CLO<FOM0016<END
+#0401
+<KEY<FLJ7986:0404<MSGStand by the door?<YNJ0000
+<MYD0000<WAI0050
+<FAC0002<MSG...<NOD<CLR
+<FAC0014<MSGNow tell me everything you
+know about this place.<NOD<CLR
+<FAC0004<MSGYou mean everything about
+the nothing I know? It's
+not like I work here.<NOD<CLR
+<FAC0002<MSGThis place is ABANDONED.<NOD
+<FAC0010<MSGOr were you not able
+to tell?<NOD<CLR
+<FAC0000<MSG<QUA0015*Slap*<NOD<CLR<WAI0070
+<FAC0002<MSGTh-<WAI0030That HURT, damnit!<NOD Jeez,
+you hit like a machine...<NOD<CLR
+<FAC0014<MSGMaybe if you told me what
+I want to know, I wouldn't
+hit you so hard.<NOD<CLR
+<FAC0003<MSGFine, fine! Jeez.<NOD<CLR
+<FAC0001<MSGAlright, the jist of it is
+that this place used to
+manufacture energy.<NOD<CLR
+<FAC0001<MSGDid you read the books in
+the library? There was a
+certain<NOD energy source that was
+being researched.<NOD<CLR
+<FAC0007<MSGHowever, it was deemed too
+dangerous for further
+study, and was shut down.<NOD<CLR
+<FAC0003<MSGCurious thing is that the
+day before everyone left,
+there was an accident.<NOD<CLR
+<FAC0003<MSGOne man ran from this
+place, yelling about his
+coworkers being killed.<NOD<CLR
+<FAC0002<MSGI think he was traumatized,
+because he refused to say
+how or why.<NOD<CLR
+<FAC0001<MSGBut when people went in to
+see, there were no corpses.<NOD<CLR
+<FAC0007<MSGThey just...<WAI0050disappeared.<NOD<CLR
+<FAC0016<MSGHow did you learn all
+of this?<NOD<CLR
+<FAC0002<MSGI come here often to mourn
+the death of the research
+head.<NOD
+<FAC0004...my father.<NOD<CLR
+<FAC0016<MSGOh, I'm...<WAI0050<FAC0017I'm sorry...<NOD<CLR
+<FAC0001<MSGDon't be.<NOD <FAC0002If he hadn't
+worked every hour of the
+day<NOD it might not have
+happened like this.<NOD<CLR
+<FAC0004<MSGDumb bastard.<NOD<CLR
+<FAC0015<MSG...<NOD<CLR
+<FAC0007<MSGIs that all you needed...?
+I'm kind of busy, you know.<NOD<CLR
+<FAC0017<MSGY-<WAI0030yes.<NOD<CLR
+<ANP0500:0000:0002<FAC0017<MSGLet's go.<NOD<CLO<ANP0500:0008:0002
+<WAI0120<SOU0011<CNP0401:0000:0000<WAI0010<HMC<WAI0010
+<ANP0500:0000:0002<DNP0500<WAI0070<FAC0007<MSG...<NOD<CLO<FAO0004
+<TRA0007:0300:0011:0014
+#0402
+<KEY<FON0500:0016<FAC0014<MSGWrong door.<NOD<CLO<FOM0016<END
+#0403
+<KEY<MSGYou should leave now.<NOD<CLO<END
+#0404
+<SOU0011<CNP0401:0000:0000<WAI0010<HMC<WAI0010
+<SOU0011<CNP0401:0018:0000<FAO0004<MYD0002<SMC<TRA0007:0094:0011:0014
+#0500
+<KEY<FAC0014<MSGThe door to your right.<NOD<CLO<END
+#0600
+<KEY<FLJ7986:0602<ITJ0001:0601
+<FAC0002<MSGFuck off.<NOD<CLO<END
+#0601
+<KEY<GIT1001<MSGThe knife fits so well in
+your hand...<NOD<CLR
+<MSGStab the boy with the knife?<YNJ0000<CLO
+<WAI0070<CMU0000<SOU0057
+<MYB0002<ANP0600:0000:0002<FAC0016<GIT0000<MSG...<NOD<CLR
+<FAC0006<MSG...!<NOD<CLR
+<FAC0005<MSGI...<WAI0050I'm bleeding...<NOD<CLR
+<FAC0005<MSGWhy would...<WAI0045you...<NOD<CLR
+<FAC0004<MSG...Nngh...<NOD<CLR
+<FAC0004<MSG...<WAI0050<FAC0011Heh...<WAI0050ha<WAI0030ha<WAI0030ha...<NOD<CLR
+<FAC0009<MSGEnjoy the feeling...<WAI0070of
+innocent blood...<WAI0090
+o<WAI0005n<WAI0005 <WAI0005y<WAI0005o<WAI0005u<WAI0005r<WAI0005 <WAI0005h<WAI0005a<WAI0007n<WAI0009d<WAI0011s<WAI0013.<WAI0015.<WAI0020.<NOD<CLO
+<WAI0070
+<CNP0600:0030:0000<WAI0050
+<FAC0000<MSG...<NOD<CLR
+<FAC0017<MSGI guess I expected this
+to happen...<NOD<CLR
+<FAC0017<MSGI should have
+told you more.<NOD<CLR
+<FAC0017<MSGPlease...Just don't kill
+anyone you don't have to.<NOD
+(I don't want to see
+any more innocent
+bodies.)<NOD<CLO<WAI0070
+<FAC0015<MSG...<NOD<CLR
+<FAC0014<MSGI need to take care
+of a few things.<NOD<CLR
+<FAC0014<MSGI'll see you later.<NOD<CLO
+<ANP0500:0008:0002<WAI0140<ANP0500:0000:0002<SOU0011<CNP0401:0000:0000<WAI0010
+<DNP0500<WAI0010<SOU0011<CNP0401:0018:0000<FL+7986<END
+#0602
+<KEY<MSG...<NOD<CLO<END
+
+
+
+				Outside
+
+
+
+#0090
+<KEY<MNA<CMU0028<FAI0000<END
+#0091
+<KEY<MNA<CMU0028<FAI0001<END
+#0092
+<KEY<MNA<CMU0028<FAI0002<END
+#0093
+<KEY<MNA<CMU0028<FAI0003<END
+#0094
+<KEY<SMC<MNA<CMU0028<FAI0004<END
+#0100
+<KEY<FLJ7985:0101
+<CNP0100:0000:0000<SOU0011<WAI0010<HMC<WAI0010<SOU0011<CNP0100:0018:0000
+<WAI0070<MS3Eh? Who are you?<NOD
+Why are you in my house?<NOD<CLR
+<MS3Oh...it's you. I remember now.<NOD<CLR
+<MS3You were the one who told me to
+open the gate to the laboratory.<NOD<CLR
+<MS3You didn't have to roughhouse me.<NOD<CLR
+<MS3What? You've lost your memory?<NOD<CLR
+<MS3Hmm...how odd.<NOD<FAC0042 Well,
+welcome once again.<NOD<CLR
+<FAC0042<MS3My name's Rikei.<NOD<CLR
+<FAC0044<MS3That's ree-kai,
+not ree-kee.<NOD<CLR
+<FAC0042<MS3Everyone always calls me
+Riki. It's annoying.<NOD<CLR
+<FAC0042<MS3Well, you just reminded me
+that I have to do
+some shopping!<NOD<CLR
+<FAC0044<MS3Don't look at me like that.
+I know it's dark out.<NOD The
+town is more peaceful
+at night.<NOD<CLR
+<FAC0042<MS3Oh, that's right.<NOD I guess
+you wouldn't know about
+the town, huh?<NOD<CLR
+<FAC0042<MS3Come with me. I'll enjoy
+the company anyway.<NOD<CLO<WAI0050<CNP0100:0000:0000<SOU0011<WAI0010
+<CNP0401:0055:0002<WAI0030<ANP0401:0003:0002<WAI0050<CNP0300:0150:0002
+<WAI0010<SOU0011<CNP0100:0018:0000<WAI0010<ANP0300:0050:0002<WAI0100
+<FAO0004<FL+7985<TRA0006:0200:0004:0015
+#0101
+<KEY<MS3The door is locked.<NOD<CLO<END
+#0110
+<KEY<FLJ7985:0111
+<MM0<MYB0002<MS3It looks like there's a house to
+your left.<NOD It may be beneficial to
+visit and try to gather some
+information.<NOD<CLO<END
+#0111
+<PRI<FAO0004<TRA0006:0094:0003:0015
+#0200
+<KEY<MM0<MYB0000<MS3Woah there.<WAS<WAI0040
+Why would you want to go back into
+the old, dusty laboratory?<NOD<CLR
+<MS3How could that possibly
+benefit you?<NOD<CLO<END
+#0300
+<KEY<CNP0400:0074:0000<MNA<CMU0028<SMC<MYD0002<FAI0004<WAI0070
+<FAC0020<MS3Well, we never managed to
+find our target.<NOD<CLR
+<FAC0012<MS3I guess it's alright.<NOD<CLR
+<FAC0012<MS3We didn't have much to
+go off of, anyway.<NOD<CLR
+<FAC0016<MS3What? Who was our target?<NOD<CLR
+<FAC0013<MS3I-I'll tell you some
+other time.<NOD<CLR<ITJ0001:0302<CLO<EVE0301
+#0301
+<KEY<FAC0012<MS3<GIT1001<IT+0001Take this knife.<NOD
+The world's a dangerous
+place, but hopefully you
+never have to use it.<NOD<CLO<EVE0302
+#0302
+<KEY
+<WAI0050
+<ANP0400:0000:0002<WAI0080
+<FAC0015<MS3...<NOD<CLR<WAI0080
+<FAC0014<MS3...I'll see you later.<NOD
+I have things to do.<NOD<CLR
+<FAC0013<MS3Maybe when we meet again
+you'll have your
+memory back.<NOD<CLO
+<ANP0400:0008:0002<WAI0150<DNP0400<END

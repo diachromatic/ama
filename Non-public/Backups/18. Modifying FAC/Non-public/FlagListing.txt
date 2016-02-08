@@ -1,0 +1,379 @@
+Flag 4000
+	 <FL+ Start.tsc event #102
+	 <FL- Labor.tsc event #400
+Flag 4001
+	 <FL- Labor.tsc event #120
+	 <FL+ Labor.tsc event #400
+Flag 4002
+	 <FL+ Labor.tsc event #120
+	 <FL- Labor.tsc event #121
+	 <FL- Labor.tsc event #404
+Flag 4003
+	 <FL+ Labor.tsc event #404
+	 <FL- Secu.tsc event #600
+Flag 4004
+	 <FL+ Secu.tsc event #600
+	 <FL- Stora.tsc event #300
+Flag 4005
+	 <FL+ World.tsc event #100
+Flag 4006
+	 <FL+ World.tsc event #100
+	 <FL- Alice.tsc event #300
+Flag 4007
+	 <FL- Cave.tsc event #400
+	 <FL+ Alice.tsc event #300
+Flag 4008
+	 <FL+ Cave.tsc event #400
+Flag 5000
+	 <FLJ Labor2.tsc event #250
+	 <FL+ Labor2.tsc event #250
+Flag 5001
+	 <FLJ Labor2.tsc event #251
+	 <FL+ Labor2.tsc event #251
+Flag 5002
+	 <FL+ Labor2.tsc event #250
+Flag 5999
+	 <FL+ Secu.tsc event #1000
+Flag 6000
+	 <FL+ Secu.tsc event #1000
+Flag 6001
+	 <FL+ Cave2.tsc event #1000
+Flag 6100
+	 <FLJ Comp.tsc event #94
+	 <FL+ Comp.tsc event #311
+Flag 6101
+	 <FLJ Cave.tsc event #280
+	 <FL+ Cave.tsc event #1100
+	 <FL+ TechCyph.tsc event #404
+Flag 6102
+	 <FL+ TechCyph.tsc event #404
+Flag 6103
+	 <FL+ TechCyph.tsc event #404
+Flag 6104
+	 <FL+ TechCyph.tsc event #404
+Flag 6105
+	 <FL+ TechCyph.tsc event #404
+Flag 6106
+	 <FL+ TechCyph.tsc event #404
+Flag 6107
+	 <FL+ TechCyph.tsc event #404
+Flag 7917
+	 <FLJ TechAlc.tsc event #200
+	 <FL+ TechAlc.tsc event #200
+Flag 7918
+	 <FLJ TechAlc.tsc event #101
+	 <FL+ TechAlc.tsc event #101
+Flag 7920
+	 <FLJ TechMech.tsc event #400
+	 <FL+ TechMech.tsc event #401
+Flag 7923
+	 <FL- Cave.tsc event #94
+	 <FL- Cave.tsc event #95
+	 <FL+ Cave.tsc event #96
+	 <FL- Cave.tsc event #96
+	 <FL- Cave.tsc event #97
+	 <FLJ Cave.tsc event #98
+	 <FL- Cave.tsc event #98
+	 <FL- Cave.tsc event #99
+Flag 7924
+	 <FL+ Cave.tsc event #131
+	 <FLJ CaveDeep.tsc event #95
+Flag 7925
+	 <FLJ TownInfo.tsc event #207
+	 <FL+ TownInfo.tsc event #207
+	 <FLJ TownHall.tsc event #241
+	 <FL+ TownHall.tsc event #241
+Flag 7926
+	 <FLJ Cave.tsc event #94
+	 <FLJ Cave.tsc event #95
+	 <FLJ Cave.tsc event #96
+	 <FLJ Cave.tsc event #97
+	 <FLJ CaveDeep.tsc event #601
+	 <FL+ CaveDeep.tsc event #601
+Flag 7927
+	 <FLJ Cave.tsc event #130
+	 <FLJ CaveDeep.tsc event #200
+	 <FL+ CaveDeep.tsc event #200
+
+--------------------------------------------------------
+
+Flag 7928
+	 <FLJ Cave.tsc event #96
+	 <FLJ Cave.tsc event #130
+	 <FLJ Cave.tsc event #215
+	 <FL+ Cave.tsc event #215
+	 <FLJ Cave2.tsc event #94
+Flag 7929
+	 <FLJ Cave.tsc event #270
+	 <FL+ Cave.tsc event #271
+Flag 7931
+	 <FLJ Cave.tsc event #260
+	 <FL+ Cave.tsc event #261
+	 <FLJ Cave.tsc event #270
+Flag 7933
+	 <FLJ TownInfo.tsc event #400
+	 <FL+ TownInfo.tsc event #400
+Flag 7934
+	 <FLJ Town2.tsc event #94
+	 <FLJ Town2.tsc event #300
+	 <FL+ Town2.tsc event #303
+Flag 7935
+	 <FLJ Cave.tsc event #250
+	 <FLJ Cave.tsc event #260
+	 <FL+ Cave.tsc event #400
+Flag 7936
+	 <FLJ Cave.tsc event #251
+	 <FL+ Cave.tsc event #251
+Flag 7937
+	 <FL- Cave.tsc event #400
+	 <FL+ Alice.tsc event #300	
+Flag 7938
+	 <FLJ Cave.tsc event #94
+	 <FLJ Cave.tsc event #96
+	 <FLJ Cave.tsc event #97
+	 <FLJ Cave.tsc event #98
+	 <FLJ Cave.tsc event #99
+	 <FL+ Cave.tsc event #202
+Flag 7939
+	 <FL+ Cave2.tsc event #200
+Flag 7940
+	 <FL+ Alice.tsc event #300
+Flag 7941
+	 <FLJ TownHall.tsc event #240
+	 <FL+ TownHall.tsc event #240
+Flag 7942
+	 <FLJ Cave.tsc event #94
+	 <FLJ Cave.tsc event #95
+	 <FLJ Cave.tsc event #98
+	 <FL+ Cave.tsc event #211
+Flag 7943
+	 <FLJ TownHall.tsc event #230
+	 <FL+ TownHall.tsc event #230
+Flag 7944
+	 <FLJ TownHall.tsc event #200
+	 <FL+ TownHall.tsc event #200
+Flag 7945
+	 <FLJ TownInn.tsc event #300
+	 <FL+ TownInn.tsc event #300
+Flag 7946
+	 <FLJ TownInn.tsc event #203
+	 <FL+ TownInn.tsc event #203
+Flag 7947
+	 <FLJ TownInn.tsc event #202
+	 <FL+ TownInn.tsc event #202
+Flag 7948
+	 <FLJ TownInn.tsc event #201
+	 <FL+ TownInn.tsc event #201
+Flag 7949
+	 <FLJ TownInn.tsc event #200
+	 <FL+ TownInn.tsc event #200
+Flag 7950
+	 <FLJ TownShop.tsc event #200
+	 <FLJ TownShop.tsc event #300
+	 <FL+ TownShop.tsc event #300
+Flag 7962
+	 <FLJ Town2.tsc event #400
+	 <FL+ Town2.tsc event #400
+Flag 7963
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FLJ TechGrid.tsc event #100
+	 <FLJ TechGrid.tsc event #101
+	 <FLJ TechGrid.tsc event #102
+	 <FLJ TechGrid.tsc event #103
+	 <FLJ TechGrid.tsc event #104
+	 <FLJ TechGrid.tsc event #600
+	 <FL+ TechGrid.tsc event #600
+	 <FL- TechGrid.tsc event #601
+Flag 7964
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FLJ TechGrid.tsc event #100
+	 <FLJ TechGrid.tsc event #101
+	 <FLJ TechGrid.tsc event #102
+	 <FLJ TechGrid.tsc event #103
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #770
+	 <FL+ TechGrid.tsc event #770
+	 <FL- TechGrid.tsc event #771
+Flag 7965
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FLJ TechGrid.tsc event #100
+	 <FLJ TechGrid.tsc event #101
+	 <FLJ TechGrid.tsc event #102
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #780
+	 <FL+ TechGrid.tsc event #780
+	 <FL- TechGrid.tsc event #781
+Flag 7966
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FLJ TechGrid.tsc event #100
+	 <FLJ TechGrid.tsc event #101
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #750
+	 <FL+ TechGrid.tsc event #750
+	 <FL- TechGrid.tsc event #751
+Flag 7967
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FLJ TechGrid.tsc event #100
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #730
+	 <FL+ TechGrid.tsc event #730
+	 <FL- TechGrid.tsc event #731
+Flag 7968
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FLJ TechGrid.tsc event #99
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #700
+	 <FL+ TechGrid.tsc event #700
+	 <FL- TechGrid.tsc event #701
+Flag 7969
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FLJ TechGrid.tsc event #98
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #680
+	 <FL+ TechGrid.tsc event #680
+	 <FL- TechGrid.tsc event #681
+Flag 7970
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FLJ TechGrid.tsc event #97
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #660
+	 <FL+ TechGrid.tsc event #660
+	 <FL- TechGrid.tsc event #661
+Flag 7971
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FLJ TechGrid.tsc event #96
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #650
+	 <FL+ TechGrid.tsc event #650
+	 <FL- TechGrid.tsc event #651
+Flag 7972
+	 <FLJ TechGrid.tsc event #94
+	 <FLJ TechGrid.tsc event #95
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #630
+	 <FL+ TechGrid.tsc event #630
+	 <FL- TechGrid.tsc event #631
+Flag 7973
+	 <FLJ TechGrid.tsc event #94
+	 <FL- TechGrid.tsc event #300
+	 <FLJ TechGrid.tsc event #620
+	 <FL+ TechGrid.tsc event #620
+	 <FL- TechGrid.tsc event #621
+Flag 7975
+	 <FLJ TechTown.tsc event #500
+	 <FLJ TechMech.tsc event #400
+	 <FLJ TechMech.tsc event #404
+	 <FL+ TechMech.tsc event #404
+Flag 7976
+	 <FLJ TechLock.tsc event #400
+	 <FL+ TechLock.tsc event #400
+Flag 7977
+	 <FLJ TechCyph.tsc event #401
+	 <FL+ TechCyph.tsc event #404
+Flag 7978
+	 <FLJ TechCyph.tsc event #401
+	 <FL+ TechCyph.tsc event #402
+Flag 7979
+	 <FLJ TechCyph.tsc event #400
+	 <FL+ TechCyph.tsc event #400
+Flag 7980
+	 <FLJ World3.tsc event #200
+	 <FL+ Alice.tsc event #300
+	 <FL- CaveDeep.tsc event #200
+Flag 7981
+	 <FLJ Labor2.tsc event #200
+	 <FL+ Labor2.tsc event #200
+Flag 7982
+	 <FLJ TownShop.tsc event #201
+	 <FL+ TownShop.tsc event #201
+Flag 7983
+	 <FLJ TownShop.tsc event #200
+	 <FL+ TownShop.tsc event #200
+Flag 7984
+	 <FLJ Labor2.tsc event #300
+	 <FL+ Labor2.tsc event #304
+Flag 7985
+	 <FLJ World.tsc event #100
+	 <FL+ World.tsc event #100
+	 <FLJ World.tsc event #110
+	 <FLJ TownInfo.tsc event #300
+Flag 7986
+	 <FLJ Stora.tsc event #400
+	 <FLJ Stora.tsc event #401
+	 <FLJ Stora.tsc event #600
+	 <FL+ Stora.tsc event #601
+Flag 7987
+	 <FLJ Secu.tsc event #94
+	 <FLJ Secu.tsc event #95
+	 <FL+ Stora.tsc event #300
+	 <FLJ Stora.tsc event #400
+Flag 7988
+	 <FL+ Secu.tsc event #600
+Flag 7989
+	 <FLJ Secu.tsc event #400
+	 <FL+ Secu.tsc event #401
+	 <FL- Secu.tsc event #403
+Flag 7990
+	 <FL+ Secu.tsc event #300
+	 <FLJ Secu.tsc event #400
+	 <FLJ Secu.tsc event #402
+Flag 7991
+	 <FLJ Labor.tsc event #94
+	 <FLJ Labor.tsc event #401
+	 <FL+ Labor.tsc event #404
+Flag 7992
+	 <FLJ Labor.tsc event #94
+	 <FLJ Labor.tsc event #95
+	 <FL+ Labor.tsc event #120
+	 <FL+ Labor2.tsc event #120
+Flag 7994
+	 <FLJ Comp.tsc event #302
+	 <FL+ Comp.tsc event #302
+Flag 7995
+	 <FLJ Comp.tsc event #300
+	 <FL+ Comp.tsc event #300
+	 <FL+ Comp.tsc event #301
+Flag 7996
+	 <FL+ Comp.tsc event #200
+Flag 7997
+	 <FLJ Labor.tsc event #501
+	 <FL+ Labor.tsc event #501
+Flag 7998
+	 <FL+ Labor.tsc event #400
+Flag 7999
+	 <FL+ Start.tsc event #102
