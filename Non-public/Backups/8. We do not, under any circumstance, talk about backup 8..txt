@@ -888,6 +888,8 @@ Welcome to the archives. It's good/absolutely terrible get the hell out to see y
 Please note: This can be wrong. Half of it is guesswork because we weren't going through and checking every single thing in every one.
 This is more or less the history of the Ama(michi).
 
+21. Man, fuck Prince
+
 20. this isn't even a real release you cuck i have work to do
 
 19. I have too much power.
@@ -909,10 +911,7 @@ This is more or less the history of the Ama(michi).
 11. Seriously what is that thing that you did Dunc
 
 10. WATER IS NOT YOUR FRIEND
-YOU
-CANNOT
-DOUBLE JUMP
-IN WATER
+YOU CANNOT DOUBLE JUMP IN WATER
 
 9: Here comes the Dunc. I finally convinced sold to get dropbox, and made this happen. 8-9 was by far the most PROGRESS made between backups, and we want to keep it that way. Most notably, this release marks the addition of the DoConfig fix, making DoConfig display nothing about weapons and default to a far better font than Courier New, included in the folder.
 
