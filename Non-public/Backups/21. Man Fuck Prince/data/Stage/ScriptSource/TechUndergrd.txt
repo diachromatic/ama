@@ -1,0 +1,67 @@
+#0090
+<KEY<MNA<CMU0000<FAI0000<END
+#0091
+<KEY<MNA<CMU0000<FAI0001<END
+#0092
+<KEY<MNA<CMU0000<FAI0002<END
+#0093
+<KEY<MNA<CMU0000<FAI0003<END
+#0094
+<KEY<FLJ7904:0095<MNA<CMU0003<FAI0004<END
+#0095
+<KEY<MNA<CMU0004<FAI0004<END
+
+#0100
+<PRI<FLJ7904:0101<FAO0004<MYD0002<TRA0020:0094:0014:0016
+#0101
+<PRI<FAO0004<MYD0002<TRA0031:0094:0014:0016
+
+#0110
+<PRI<FAO0004<MYD0000<TRA0024:0094:0013:0002
+
+#0200
+<KEY<MSGA note is here...<NOD<CLR
+<MSGRead it?
+"Yes."
+"No."<YNJ0000<CLR
+<MSG<TUR"It is advised not
+to travel to the
+grid below."<NOD<CLR
+<MSG<TUR"By activating certain
+electrical currents, the
+framework of the grid changes."<NOD<CLR
+<MSG<TUR"This is a security
+measure, so that no one
+unqualified can get in."<NOD<CLR
+<MSG<TUR"Otherwise, they could
+shut off power for
+the entire town."<NOD<CLR
+<MSG<TUR"The main control terminal
+is locked in the center
+of the grid."<NOD<CLR
+<MSG<TUR"If somehow you become
+trapped, there are special
+terminals within the grid."<NOD<CLR
+<MSG<TUR"These contain a program
+designed to reset the user's
+time to a previous point."<NOD<CLR
+<MSG<TUR"Of course, this is
+dangerous and experimental,
+so settings control is disabled."<NOD<CLR
+<MSG<TUR"The program will without
+fail bring you back to
+when you entered the grid."<NOD<CLO<END
+
+#0300
+<KEY<MSG<TUR
+         "Path to surface"<NOD<CLO<END
+
+#0400
+<DNP0400<FLJ6101:0401<END
+#0401
+<SMP0018:0004<END
+
+#1100
+<KEY<GIT1005<MSGThere's a journal on the ground.<NOD<CLR
+<FL+6102<IT+0005<SMP0018:0004<DNP1100<DNP0400
+<MSGYou take the journal with you.<NOD<CLR<END

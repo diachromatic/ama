@@ -1,0 +1,85 @@
+#0090
+<KEY<MNA<CMU0028<FAI0000<END
+#0091
+<KEY<MNA<CMU0028<FAI0001<END
+#0092
+<KEY<MNA<CMU0028<FAI0002<END
+#0093
+<KEY<MNA<CMU0028<FAI0003<END
+#0094
+<KEY<FLJ7892:0095<MNA<CMU0028<FAI0004<END
+#0095
+<KEY<MNP0220:0011:0014:0000<MNA<MYD0002<CMU0028<FAI0004
+<FAF0009<MSGYOU!<NOD<CLR
+<MSGWhat did you do
+down there?!<NOD<CLR
+<MSGWe know what those
+earthquakes mean...<NOD<CLR
+<MSGThe last time we felt them,
+we were almost wiped out!<NOD<CLR
+<MSGYou just had to show up,
+and now we're
+scrambling to-<WAI0010<CLR
+<FAF0001<SOU0035<FLA<QUA0200<MSG!<WAI0200<CLR
+<FAF0003<MSGMake it stop...<NOD<CLR
+<MSGJust leave!<NOD We have enough
+on our hands thanks to you!<NOD<CLO<END
+
+#0100
+<PRI<FAO0004<MYD0000<TRA0040:0094:0024:0020
+#0110
+<KEY<FAO0004<MYD0002<TRA0042:0094:0002:0008
+#0200
+<KEY<MSGWhere did you come from?<NOD<CLO<END
+#0210
+<KEY<MSGBe careful around Prince.<NOD
+He's a nice guy, but there's a
+reason he's so closed-off
+to strangers.<NOD<CLO<END
+#0220
+<KEY<MYB0002<FLJ7892:0230<FLJ7895:0221<FAC0114<MSGAnother human...<NOD<CLR
+<MSGLet me guess:<NOD
+You fell down here and
+are too weak to
+get back up.<NOD<CLR
+<FAC0117<MSGAnd just when we
+were rid of the
+last one...<NOD<CLR
+<FAC0114<MSGYou humans are all
+the same.<NOD Hundreds of
+years ago you tried
+to enslave us,<WAI0040
+and now you want to
+study us.<NOD<CLR
+<FAC0115<MSG...<NOD<CLR
+<FAC0114<MSGI think the last
+human left something
+here.<NOD Down in the pits.<NOD
+It might help you
+escape this village.<NOD<CLR
+<MSGGo get it, then
+get out of here.<NOD<CLO
+<FL+7895<END
+#0221
+<KEY<FAC0114<MSGI don't have time
+to talk with you,
+human.<NOD<CLO<END
+
+#0230
+<KEY<FAF0006<MSGNever should have trusted
+any of them...<NOD<CLO<END
+
+#0300
+<KEY<FLJ7892:0312<FLJ7895:0301<MM0<MYB0000<FAC0114<MSGHey, you!<NOD<CLO<END
+#0301
+<KEY<DNP0301<END
+#0310
+<KEY<FLJ7892:0311<MYB0002<FAC0114<MSGHey!<NOD<CLO<WAS<WAI0040
+<MYD0000<WAI0040
+<FAC0117<MSGI'm not about to let an
+outsider into our village.<NOD<CLR
+<FAC0114<MSGYou can stay out here.<NOD<CLO<END
+#0311
+<KEY<MM0<MYB0002<MSGYou should leave.<NOD<CLO<WAS<END
+#0312
+<KEY<MM0<MYB0000<MSGYou should leave.<NOD<CLO<WAS<END

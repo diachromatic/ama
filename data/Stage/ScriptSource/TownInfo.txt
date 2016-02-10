@@ -1,0 +1,73 @@
+#0090
+<KEY<MNA<CMU0028<FAI0000<END
+#0091
+<KEY<MNA<CMU0028<FAI0001<END
+#0092
+<KEY<MNA<CMU0028<FAI0002<END
+#0093
+<KEY<MNA<CMU0028<FAI0003<END
+#0094
+<KEY<MNA<CMU0028<FAI0004<CNP0100:0000:0000<SOU0011<WAI0010<SMC
+<WAI0010<SOU0011<CNP0100:0018:0000<END
+#0100
+<KEY<CNP0100:0000:0000<SOU0011<WAI0010<HMC<WAI0010
+<SOU0011<CNP0100:0018:0000<WAI0010<FAO0004<TRA0006:0097:0029:0015
+#0200
+<KEY<MS3<TUR"These notes have helpful information!"<NOD<CLO<END
+#0201
+<KEY<MS3<TUR"There are more notes on
+the second level. If you can't
+jump then that's your problem."<NOD<CLO<END
+#0202
+<KEY<MS3<TUR"Check the information clerk for specific
+information not found on the walls."<NOD<CLO<END
+#0203
+<KEY<MSG<TUR1. Did you know the witch-woman
+Jenka had a brother?<NOD<CLR
+<MSG<TURHaha, yeah right. Witches
+aren't real.<NOD<CLO<END
+#0204
+<KEY<MSG<TUR2. Contrary to popular belief, enjoying
+the night is not as evil as killing
+children.<NOD<CLO<END
+#0205
+<KEY<MSGThe note appears to have been
+crossed out.<NOD There is some small 
+writing at the bottom.<NOD<CLR<TUR3. IT'S RI-KAI, NOT RI-KI<NOD<END
+#0206
+<KEY<MSG<TUR4. Robots don't bleed.
+Well, maybe.<NOD<CLO<END
+#0207
+<KEY<MSG<TUR5. The abandoned laboratory used to be
+anything but. In fact, some say that Riki
+used to work there.<NOD<CLRHowever, nobody knows what they did there.<NOD
+Riki refuses to speak of it.<NOD<CLO<END
+#0208
+<KEY<MSG<TUR6. There are no humans or cats in the cave.<NOD
+Be wary of what you may find in the depths.<NOD<CLO<END
+#0209
+<KEY<MSG<TUR7. The shop down the street really does
+grant wishes! In fact, it sometimes knows
+your wishes better than you do.<NOD<CLO<END
+#0210
+<KEY<MSG<TUR8. There is no eighth note.<NOD
+Why would there be an eighth note?<NOD
+That's silly. You're silly.<NOD<CLO<END
+#0211
+<KEY<MSG<TUR:3<NOD<CLO<END
+#0300
+<KEY<MSG...<NOD<CLR
+<MSGNeed something?
+"Well..."
+"No."<YNJ0301<CLR<FLJ7902:0303<FLJ7956:0302
+<MSGNo, you don't.<NOD<CLO<END
+#0301
+<KEY<MSGI see.<NOD<CLO<END
+#0302
+<KEY<MSGThis place? This is Cat Street.<NOD
+It's mostly inhabited by cats.<NOD
+In case you didn't already
+know that, of course.<NOD<CLR<END
+#0303
+<KEY<MSGA power core, huh? I remember
+that Riki guy buying one before.<NOD<CLO<END
