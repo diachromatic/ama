@@ -10,7 +10,7 @@
 <KEY<FLJ7892:0095<MNA<CMU0028<FAI0004<END
 #0095
 <KEY<MNP0220:0011:0014:0000<MNA<MYD0002<CMU0028<FAI0004
-<FAF0009<MSGYOU!<NOD<CLR
+<FAF0012<MSGYOU!<NOD<CLR
 <MSGWhat did you do
 down there?!<NOD<CLR
 <MSGWe know what those
@@ -66,7 +66,7 @@ to talk with you,
 human.<NOD<CLO<END
 
 #0230
-<KEY<FAF0006<MSGNever should have trusted
+<KEY<FAF0009<MSGNever should have trusted
 any of them...<NOD<CLO<END
 
 #0300
